@@ -11,7 +11,7 @@ gulp.task('server', function() {
   gulp.src('./build')
     .pipe(webserver({
       host: '0.0.0.0',
-      port: 8080,
+      port: 3001,
       fallback: 'index.html',
       livereload: true
     }))
