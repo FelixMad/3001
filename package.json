@@ -14,5 +14,13 @@
     "vinyl-source-stream": "^1.1.0"
   },
   "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelixMad/3001.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FelixMad/3001/issues"
+  },
+  "homepage": "https://github.com/FelixMad/3001#readme",
   "description": ""
 }
